@@ -108,7 +108,7 @@ header li:hover::after{
 
 /* Showcase */
 #showcase{
-    min-height: 700px;
+    min-height: 800px;
     background: url('../img/home.jpg') no-repeat 0 -350px;
     text-align: center;
     color: #ffffff;
