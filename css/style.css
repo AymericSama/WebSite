@@ -113,7 +113,7 @@ header li:hover::after{
     background: url('../img/home.jpg') no-repeat 0 -350px;
     text-align: center;
     color: #ffffff;
-    border-bottom: #35424a 2px solid;
+    border-bottom: #35424a 10px solid;
 }
 
 #showcase h1{
