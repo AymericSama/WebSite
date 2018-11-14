@@ -48,7 +48,7 @@ header{
     background:#ffffff;
     color:#35424a;
     padding-top: 20px;
-    min-height: 50px;
+    min-height: 60px;
     border-bottom: #e8491d solid;
 }
 
@@ -76,7 +76,7 @@ header #branding h1{
 
 header nav{
     float: right;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 header .current a{
