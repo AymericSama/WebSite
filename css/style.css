@@ -84,6 +84,7 @@ header li::after{
     content: '';
     position: absolute;
     width: 80%;
+    display: flex;
     transform: scaleX(0);
     height: 2px;
     bottom: -5px;
