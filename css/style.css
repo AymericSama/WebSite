@@ -18,7 +18,7 @@ body{
 }
 
 .highlight{
-    color: #e8491d;
+    color: #000000;
 }
 
 ul{
@@ -46,7 +46,7 @@ ul{
 /* Header */
 header{
     background:#ffffff;
-    color:#35424a;
+    color:#cecece;
     padding-top: 20px;
     min-height: 60px;
     border-bottom: #e8491d solid;
