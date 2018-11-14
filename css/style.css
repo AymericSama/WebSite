@@ -47,7 +47,7 @@ ul{
 header{
     background:#ffffff;
     color:#35424a;
-    padding-top: 30px;
+    padding-top: 20px;
     min-height: 70px;
     border-bottom: #e8491d solid;
 }
@@ -76,7 +76,7 @@ header #branding h1{
 
 header nav{
     float: right;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 header .current a{
