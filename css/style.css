@@ -46,7 +46,7 @@ ul{
 /* Header */
 header{
     background:#ffffff;
-    color:#cecece;
+    color:#bababa;
     padding-top: 20px;
     min-height: 60px;
     border-bottom: #e8491d solid;
@@ -194,7 +194,7 @@ footer{
     padding: 1px;
     margin-top: 20px;
     color: #ffffff;
-    background-color: #e8491d;
+    background-color: #000000;
     text-align: center;
 }
 
