@@ -187,6 +187,10 @@ header li:hover::after{
     width: 65%;
 }
 
+#main-col .li img{ 
+    width: 50px;
+}
+
 /* Cesi */ 
 #cesi li{
     list-style: none;
