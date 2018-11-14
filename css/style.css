@@ -17,6 +17,10 @@ body{
     overflow: hidden; 
 }
 
+.highlight{
+    color: #e8491d;
+}
+
 ul{
     margin: 0;
     padding: 0;
