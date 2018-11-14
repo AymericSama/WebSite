@@ -88,7 +88,7 @@ header li::after{
     height: 2px;
     bottom: -5px;
     left: 0px;
-    background-color: black;
+    background-color: #e8491d;
     transform-origin: bottom right;
     transition: transform 0.25s ease-out;
 }
