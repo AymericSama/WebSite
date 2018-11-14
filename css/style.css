@@ -130,6 +130,9 @@ header li:hover::after{
     padding: 5px;
     color: #ffffff;
     background: #35424a;
+}
+
+.index{
     margin-left: 10%;
     margin-right: 10%;
     margin-top: -60px;
