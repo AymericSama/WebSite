@@ -6,7 +6,7 @@ body{
     /*font: 15px/1.5 Arial, Helvetica,sans-serif;*/
     padding: 0;
     margin: 0;
-    background-color: lightgrey;
+    background-color: #efefef;
 }
 
 
@@ -109,11 +109,10 @@ header li:hover::after{
 
 /* Showcase */
 #showcase{
-    min-height: 700px;
+    min-height: 750px;
     background: url('../img/home.jpg') no-repeat 0 -350px;
     text-align: center;
     color: #ffffff;
-    border-bottom: #35424a 5px solid;
 }
 
 #showcase h1{
@@ -133,7 +132,7 @@ header li:hover::after{
     background: #35424a;
     margin-left: 10%;
     margin-right: 10%;
-    margin: -5px;
+    margin-top: -60px;
 }
 
 #newsletter h1{
