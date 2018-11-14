@@ -130,8 +130,8 @@ header li:hover::after{
     padding: 10px;
     color: #ffffff;
     background: #35424a;
-    left: 10%;
-    right: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 #newsletter h1{
