@@ -79,10 +79,6 @@ header .current a{
     font-weight: bold; 
 }
 
-header a:hover{     /*When your surflight your text*/
-    color: #cccccc;
-}
-
 
 header li::after{
     content: '';
