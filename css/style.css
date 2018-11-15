@@ -196,8 +196,11 @@ header li:hover::after{
     list-style: none;
     padding: 20px;
     border: #cccccc solid 1px;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
     background: #e6e6e6;
+    text-align: center;
+    width: 300px;
+    height: 300px;
 }
 
 footer{
